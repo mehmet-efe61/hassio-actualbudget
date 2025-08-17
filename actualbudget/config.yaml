@@ -1,5 +1,5 @@
-name: "Actual Budget Stable"
-description: "Run the latest stable version of Actual Budget."
+name: "Actual Budget (higher limits)"
+description: "Run the latest stable version of Actual Budget. With higher limits!"
 url: "https://actualbudget.org"
 slug: "actualbudget"
 init: false

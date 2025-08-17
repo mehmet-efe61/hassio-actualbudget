@@ -1,5 +1,5 @@
 {
-    "name": "Home Assistant Add-on: Actual Budget",
-    "url": "https://github.com/sztupy/hassio-actualbudget",
-    "maintainer": "Zsolt Sz. Sz. Raven <zsolt@raven.scot>"
+    "name": "Home Assistant Add-on: Actual Budget (higher limits)",
+    "url": "https://github.com/mehmet-efe61/hassio-actualbudget",
+    "maintainer": "Mehmet Efe Karadeniz <efe@mehmetefe.tech>"
   }
