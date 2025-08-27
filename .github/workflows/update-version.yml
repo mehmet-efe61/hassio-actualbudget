@@ -2,7 +2,7 @@ name: Update version
 run-name: Update latest version names of the docker images
 on:
   schedule:
-    - cron: '30 */4 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
