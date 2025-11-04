@@ -14,7 +14,7 @@ boot: auto
 ports:
   5006/tcp: 5006
 image: ghcr.io/actualbudget/actual-server
-version: 25.10.0-alpine
+version: 25.11.0-alpine
 environment:
   ACTUAL_UPLOAD_FILE_SYNC_SIZE_LIMIT_MB: "200"
   ACTUAL_UPLOAD_SYNC_ENCRYPTED_FILE_SYNC_SIZE_LIMIT_MB: "200"
